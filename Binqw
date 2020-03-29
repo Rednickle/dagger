@@ -1,0 +1,4 @@
+$ tar xvf openjdk-13*_bin.tar.gz
+or
+
+$ unzip openjdk-13*_bin.zip
